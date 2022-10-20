@@ -34,7 +34,7 @@
 
 ## :school_satchel: Сертификаты Нетологии:
 * Основы Python https: https://ibb.co/bQ2XPtH
-* git https: https://ibb.co/yVhvBdd
+* Git https: https://ibb.co/yVhvBdd
 * SQL https: https://ibb.co/xSJ6H6s
 * Python в веб-разработке: https://ibb.co/7WBHzQk
 * Django: https://ibb.co/St2SjT2
