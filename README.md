@@ -1,6 +1,6 @@
 ##
 <div id="header" align="center">
-    <img src="https://gifer.com/embed/7uiT" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/>
+    <img src="https://gifer.com/embed/7uiT" width=480 height=254.694/>
 </div>
 # Привет! Меня зовут Алексей 👋
 *   Начинающий програмист языка Python!
