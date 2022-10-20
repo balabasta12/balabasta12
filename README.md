@@ -1,5 +1,7 @@
 ##
-<div style="padding-top:53.061%;position:relative;"><iframe src="https://gifer.com/embed/7uiT" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>
+<div id="header" align="center">
+    <img src="https://gifer.com/embed/7uiT" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/>
+</div>
 # Привет! Меня зовут Алексей 👋
 *   Начинающий програмист языка Python!
 *   В активном поиске работы на должность Junior Python developer, Python Django
