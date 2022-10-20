@@ -32,3 +32,13 @@
     Стэк: Python, API VK.<br>
     https://github.com/balabasta12/Bot-VK.git - В рамках курса по програмированию реализовал мини Тиндер с помощью бота VK. Поиск людей по параметрам.</p>
 
+## :school_satchel: Сертификаты Нетологии:
+* Основы Python https: https://ibb.co/bQ2XPtH
+* git https: https://ibb.co/yVhvBdd
+* SQL https: https://ibb.co/xSJ6H6s
+* Python в веб-разработке: https://ibb.co/7WBHzQk
+* Django: https://ibb.co/St2SjT2
+
+## :mailbox_with_no_mail: Контакты:
+* Электронная почта: nesterenko.alexey4884@gmail.com
+* Телеграм: https://t.me/Balabasta12
